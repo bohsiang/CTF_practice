@@ -9,15 +9,15 @@
 
 第一個被放在html file裡面
 
-![image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/Insp3ct0r_1.png)
+![image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/Insp3ct0r_1.PNG)
 
 第二個藏在css檔裡面
 
-![image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/Insp3ct0r_2.png)
+![image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/Insp3ct0r_2.PNG)
 
 第三個在js檔內
 
-![image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/Insp3ct0r_3.png)
+![image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/Insp3ct0r_3.PNG)
 
 
 只要把他們組合起來就可以得到flag了
