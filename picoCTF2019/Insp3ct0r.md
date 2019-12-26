@@ -4,13 +4,20 @@
 
 
 這題非常簡單F12按下去
+
 可以看到flag被分成三段
+
 第一個被放在html file裡面
 
 ![image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/2Warn.png)
 
 第二個藏在css檔裡面
 
+![image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/2Warn.png)
+
 第三個在js檔內
+
+![image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/2Warn.png)
+
 
 只要把他們組合起來就可以得到flag了
