@@ -4,9 +4,13 @@ This garden contains more than it seems. You can also find the file in /problems
 
 
 使用ssh or 官方給的shell
+
 cd 到上述目錄底下
+
 直接用```cat```會有一堆亂碼
+
 所以要先用```strings```找出裡面的字串
+
 接著僅侷限於flag的字串就能找到了
 
 ![image](https://https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/Glory of the Garden.png)
