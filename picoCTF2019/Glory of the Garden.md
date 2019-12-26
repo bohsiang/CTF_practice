@@ -13,4 +13,4 @@ cd 到上述目錄底下
 
 接著利用```grep "word"```僅侷限於flag的字串就能找到了
 
-![image](https://https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/Glory of the Garden.png)
+![image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/Glory%20of%20the%20Garden.png)
