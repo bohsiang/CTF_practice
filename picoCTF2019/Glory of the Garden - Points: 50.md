@@ -11,6 +11,6 @@ cd 到上述目錄底下
 
 所以要先用```strings```找出裡面的字串
 
-接著僅侷限於flag的字串就能找到了
+接著利用```grep "word"```僅侷限於flag的字串就能找到了
 
 ![image](https://https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/Glory of the Garden.png)
