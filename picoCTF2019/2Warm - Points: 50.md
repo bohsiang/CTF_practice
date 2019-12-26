@@ -4,4 +4,4 @@
 
 Install pyhton in command line use ```bin()```
 
-![image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/2Warm.png)
+![image](https://https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/2Warn.png)
