@@ -1,6 +1,6 @@
  # The Numbers - Points: 50
 
-###　The numbers... what do they mean?
+### The numbers... what do they mean?
 
 依照下面這張圖可以觀察到只有｛｝沒被轉換
 
