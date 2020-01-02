@@ -8,4 +8,6 @@
 或用linux 內的base64語法就能夠輕鬆得到答案了
 
 
+[!image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/bsae_1.PNG)
 
+[!image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/bsae_2.PNG)
