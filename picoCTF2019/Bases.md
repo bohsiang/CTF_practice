@@ -10,4 +10,6 @@
 
 ![image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/bsae_1.PNG)
 
-![][linux environment](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/bsae_2.PNG)
+![image][linux environment](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/bsae_2.PNG)
+
+
