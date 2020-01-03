@@ -17,5 +17,3 @@
 這邊就可以在後面加上 `grep` 這個參數來限制輸出就可以得到這題的flag了
 
 ![image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/First%20Grep_4.PNG)
-
-
