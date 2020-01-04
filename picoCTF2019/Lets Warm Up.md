@@ -7,3 +7,4 @@
 
 或是使用python來幫我們解題
 
+![image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/Lets%20Warm%20Up.PNG)
