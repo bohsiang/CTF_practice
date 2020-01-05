@@ -3,3 +3,4 @@
 
 ### Can you find the robots? https://2019shell1.picoctf.com/problem/4159/ or http://2019shell1.picoctf.com:4159
 
+這題非常簡單
