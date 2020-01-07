@@ -12,8 +12,3 @@
 最簡單的方式可以利用網路上的[資源](https://www.qqxiuzi.cn/bianma/weijiniyamima.php)解碼
 ![image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/Easy1_1.PNG)
 
-也可以利用Python寫一個腳本來解碼
-
-
-
-
