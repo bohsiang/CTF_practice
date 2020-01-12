@@ -21,4 +21,4 @@
 
 在username一定成立的狀況下就可以騙過伺服器了
 
-→ username = '`' or 1=1 -- ` ' AND password = 'data'"
+→→→→ username = '`' or 1=1 -- ` ' AND password = 'data'"
