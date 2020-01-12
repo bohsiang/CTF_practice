@@ -15,4 +15,6 @@
 
 這題的題目可能為```"SELECT * FROM datasheet WHERE username = 'data' AND password = 'data'"```
 
+我們的目標是使上面的語法永遠成立
+
 
