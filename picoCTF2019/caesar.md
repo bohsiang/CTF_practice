@@ -8,4 +8,8 @@
 
 可以看到是ascii文字檔
 
+![image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/caesar_1.PNG)
+
 直接`cat file`就會發現flag就直接吐回來給妳了
+
+![image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/caesar_2.PNG)
