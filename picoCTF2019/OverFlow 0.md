@@ -4,7 +4,7 @@
 ### This should be easy. Overflow the correct buffer in this program and get a flag. Its also found in /problems/overflow-0_3_dc6e55b8358f1c82f03ddd018a5549e0 on the shell server. Source.
 
 ## vuln.c file
-```
+```c
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -14,7 +14,7 @@
 
 char flag[FLAGSIZE_MAX];
 
-# sigsegv_handler會幫我們把Flag印出來
+// sigsegv_handler會幫我們把Flag印出來
 void sigsegv_handler(int sig) {
   fprintf(stderr, "%s\n", flag);
   fflush(stderr);
@@ -22,7 +22,7 @@ void sigsegv_handler(int sig) {
 }
 
 void vuln(char *input){
-  char buf[128];    #這裡代表程式開了128個給輸入作為buffer
+  char buf[128];    // 這裡代表程式開了128個給輸入作為buffer
   strcpy(buf, input);
 }
 
@@ -34,13 +34,13 @@ int main(int argc, char **argv){
     exit(0);
   }
   fgets(flag,FLAGSIZE_MAX,f);
-  signal(SIGSEGV, sigsegv_handler); #如果造成segmentation fault就會印出flag
+  signal(SIGSEGV, sigsegv_handler); // 如果造成segmentation fault就會印出flag
 
   gid_t gid = getegid();
   setresgid(gid, gid, gid);
 
   if (argc > 1) {
-    vuln(argv[1]);  #當輸入>128這裡成立後就會觸發segmentation fault
+    vuln(argv[1]);  // 當輸入>128這裡成立後就會觸發segmentation fault
     printf("You entered: %s", argv[1]);
   }
   else
