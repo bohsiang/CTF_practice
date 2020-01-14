@@ -14,6 +14,7 @@
 
 char flag[FLAGSIZE_MAX];
 
+# sigsegv_handler會幫我們把Flag印出來
 void sigsegv_handler(int sig) {
   fprintf(stderr, "%s\n", flag);
   fflush(stderr);
@@ -21,7 +22,7 @@ void sigsegv_handler(int sig) {
 }
 
 void vuln(char *input){
-  char buf[128];
+  char buf[128];    #這裡代表程式開了128個給輸入作為buffer
   strcpy(buf, input);
 }
 
@@ -33,13 +34,13 @@ int main(int argc, char **argv){
     exit(0);
   }
   fgets(flag,FLAGSIZE_MAX,f);
-  signal(SIGSEGV, sigsegv_handler);
+  signal(SIGSEGV, sigsegv_handler); #如果造成segmentation fault就會印出flag
 
   gid_t gid = getegid();
   setresgid(gid, gid, gid);
 
   if (argc > 1) {
-    vuln(argv[1]);
+    vuln(argv[1]);  #當輸入>128這裡成立後就會觸發segmentation fault
     printf("You entered: %s", argv[1]);
   }
   else
@@ -47,3 +48,24 @@ int main(int argc, char **argv){
   return 0;
 }
 ```
+這題主要的重點如上面所示
+
+基本上只要把程式搞到OverFlow就會自己吐flag出來了
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
