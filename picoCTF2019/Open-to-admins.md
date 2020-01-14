@@ -17,7 +17,7 @@
 我也有看到其他人是用[EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=zh-TW)這套件送
 
 
-![image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/Open-to-admins_.PNG)
+![image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/Open-to-admins_2.PNG)
 
 基本上都可以能得到flag就好了
 
