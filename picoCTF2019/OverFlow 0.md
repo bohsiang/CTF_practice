@@ -50,8 +50,11 @@ int main(int argc, char **argv){
 ```
 這題主要的重點如上面所示
 
+![image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/OverFlow%200_1.PNG)
+
 基本上只要把程式搞到OverFlow就會自己吐flag出來了
 
+![image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/OverFlow%200_2.PNG)
 
 
 
