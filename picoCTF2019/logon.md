@@ -20,3 +20,4 @@ cookies內的`admin=False` 這個狀況都是一樣的
 那我們就試試看利用`curl`送cookies進去看看```curl -b admin=True web_url```
 
 吐回來的response有一個flag就是這題的答案
+
