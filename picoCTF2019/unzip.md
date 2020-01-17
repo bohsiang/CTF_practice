@@ -6,3 +6,5 @@
 把上面的檔按解壓縮可以看到裡面有一個png圖片
 
 把他夾在picoCTF{}中就是flag了
+
+![image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/unzip.png)
