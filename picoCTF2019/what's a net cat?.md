@@ -10,3 +10,4 @@
 操作非常的簡單 `nc -v ip port` 就可以看到這個port有沒有開啟能不能連接
 
 
+![image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/what's%20a%20net%20cat.PNG)
