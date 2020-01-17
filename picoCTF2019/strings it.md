@@ -8,7 +8,12 @@
 
 切換到目錄下直接`cat file`會發現一堆亂碼所以需要先過濾字串保留有用的資訊
 
+![image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/strings%20it_1.PNG)
+
 這邊使用`strings file`保留文件中的資訊
+
+![image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/strings%20it_2.PNG)
 
 發現資訊還是太多了我們只需要picoCTF相關的字串就好使用```grep "picoCTF"```就可以拿到flag了
 
+![image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/strings%20it_3.PNG)
