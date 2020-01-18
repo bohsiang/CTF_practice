@@ -6,3 +6,4 @@
 
 印出圖片中包含的字串並且限制在flag開頭就找的到了
 
+![image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/So%20Meta.PNG)
