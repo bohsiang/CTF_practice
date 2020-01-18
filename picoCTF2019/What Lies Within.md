@@ -8,5 +8,5 @@
 比起使用`strings`的語法更快更簡單
 
 
-
+![image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/What%20Lies%20Within.PNG)
 
