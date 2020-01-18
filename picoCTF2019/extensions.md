@@ -7,4 +7,8 @@
 
 他並不是文字檔而是png檔案
 
+![image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/extensions_1.PNG)
+
 這邊我就將副檔名改成png就會看到flag了
+
+![image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/extensions_2.png)
