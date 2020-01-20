@@ -24,3 +24,5 @@ py.sendline(payload)
 py.interactive()
 ```
 ![image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/handy-shellcode.PNG)
+
+
