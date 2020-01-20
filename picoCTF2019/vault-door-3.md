@@ -26,4 +26,4 @@ for i in range(31,16,-2):
 print("".join(ans))
 ```
 
-#### flag={jU5t_a_s1mpl3_an4gr4m_4_u_e9af18}
+#### flag=picoCTF{jU5t_a_s1mpl3_an4gr4m_4_u_e9af18}
