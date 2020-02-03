@@ -8,5 +8,8 @@
 
 我們只需在ls後面加上-a就能夠看的到隱藏的檔案
 
+![image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/where-is-the-file_1.PNG)
+
 知道檔名後就能夠直接用`cat`指令查看內容
 
+![image](https://github.com/bohsiang/CTF_practice/blob/master/picoCTF2019/picture/where-is-the-file_2.PNG)
