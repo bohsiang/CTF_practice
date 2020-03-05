@@ -6,7 +6,7 @@ owned by group bandit6
 ```
 
 
-1. ```ssh bandit5@bandit.labs.overthewire.org -p 2220```
+1. ```ssh bandit6@bandit.labs.overthewire.org -p 2220```
 
 2. password = DXjZPULLxYr17uwoI01bNLQbtFemEgo7
 
