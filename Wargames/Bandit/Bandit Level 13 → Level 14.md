@@ -1,5 +1,5 @@
 
-1. ```ssh bandit12@bandit.labs.overthewire.org -p 2220```
+1. ```ssh bandit13@bandit.labs.overthewire.org -p 2220```
 
 2. password = 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
 
